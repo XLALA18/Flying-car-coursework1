@@ -6,7 +6,7 @@
 
 - **作者**：XLALA18 / 15230104
 - **仓库**：https://github.com/XLALA18/Flying-car-coursework1
-- **页面**：https://XLALA18.github.io/Flying-car-coursework1/（需先在仓库  Settings → Pages 启用）
+- **页面**：https://XLALA18.github.io/Flying-car-coursework1/  （需先在仓库 Settings → Pages 启用）
 
 > 核心判断：它不是空中出租车，而是一台可以带到风景里的私人飞行器。  
 > 数据截止：2026-11-25。提交前请复核 TC / 交付状态。
