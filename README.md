@@ -13,73 +13,9 @@
 
 ---
 
-## 1. 本地预览
-
-最简单的方式：双击 `index.html`。
-
-如果浏览器对本地文件有限制，可在当前目录启动一个静态服务器：
-
-```bash
-# Python 3
-python -m http.server 8000
-
-# 然后访问
-# http://localhost:8000/
-```
-
-不需要安装依赖，不需要构建，不使用外部字体、图片或 JS 库。
-
 ---
 
-## 2. 部署到 GitHub Pages
-
-1. 打开已有仓库：`https://github.com/XLALA18/Flying-car-coursework1`。
-2. 确认仓库是 **Public**，且根目录有这 4 个文件：
-   - `index.html`
-   - `styles.css`
-   - `app.js`
-   - `README.md`
-3. 打开仓库 **Settings → Pages**。
-4. **Build and deployment → Source** 选择 **Deploy from a branch**。
-5. Branch 选择 `main`，目录选择 `/ (root)`，保存。
-6. 等待 1–2 分钟，访问：
-
-```text
-https://XLALA18.github.io/Flying-car-coursework1/
-```
-
-7. 把该链接填入课程作业收集表（PPT 右侧链接/二维码对应的收集页）。
-
-> 作业硬性要求：GitHub 账号本人注册、仓库 Public、根目录 `index.html`、网页链接提交。  
-> 本模板已满足：根目录入口、无构建步骤、相对路径资源、移动端适配。  
-> 注意：如果 Pages 设置里没有 `main` 分支，先确认文件已经提交到 `main`，而不是只放在本地。
-
----
-
-## 3. 已填写的信息
-
-页脚与作者信息已经替换为：
-
-| 项目 | 内容 |
-| --- | --- |
-| 作者 | 谢钧羽 / 15230104 |
-| 课程 | 飞行汽车技术基础（选修）· 2026 |
-| 网页 | `https://XLALA18.github.io/Flying-car-coursework1/` |
-| 仓库 | `https://github.com/XLALA18/Flying-car-coursework1` |
-
-如需修改，在 `index.html` 中搜索 `谢钧羽` 或 `XLALA18` 即可。
-
-> **重要**：如果 `https://XLALA18.github.io/Flying-car-coursework1/` 访问返回 404，说明 Pages 还没启用。请先在仓库 **Settings → Pages** 中启用 Pages，等 1–2 分钟后再访问；否则老师打不开网页。
-
-如果老师要求补充班级，可把页脚第一行改成：
-
-```html
-<p><span>作者</span> 谢钧羽 / 15230104 / 飞行汽车技术基础选修班</p>
-```
-
----
-
-## 4. 内容结构
+## 1. 内容结构
 
 | 区块 | 作用 |
 | --- | --- |
@@ -108,7 +44,7 @@ https://XLALA18.github.io/Flying-car-coursework1/
 
 ---
 
-## 5. 数据与口径说明
+## 2. 数据与口径说明
 
 这是课程作业，不是投资报告。页面把“官方披露 / 适航文件 / 媒体核验 / 教学估算”分开标注，关键边界如下：
 
@@ -130,7 +66,7 @@ https://XLALA18.github.io/Flying-car-coursework1/
 
 ---
 
-## 6. 文件说明
+## 3. 文件说明
 
 ```text
 .
@@ -144,7 +80,7 @@ https://XLALA18.github.io/Flying-car-coursework1/
 
 ---
 
-## 7. 设计说明（可选，答辩时用）
+## 4. 设计说明（可选，答辩时用）
 
 - **视觉概念**：飞行试验档案 / 任务控制台。深色英雄区 + 米白报告纸 + 安全橙 + 薄荷绿，避免“科技蓝渐变”的同质化。
 - **信息层级**：主张 → 证据 → 反证 → 结论。每个大数字都带口径，每个判断都带“不能支持什么”。
@@ -153,12 +89,12 @@ https://XLALA18.github.io/Flying-car-coursework1/
 
 ---
 
-## 8. AI 使用与学术诚信
+## 5. AI 使用与学术诚信
 
 本页使用 AI 辅助完成公开资料检索、结构化整理、SVG 概念图绘制、前端编码与文案润色。关键数字均回溯至文中参考文献；推断、估算与情景均单独标注。
 
 ---
 
-## 9. 许可
+## 6. 许可
 
 代码与原创 SVG 可自由修改用于课程学习；引用文字、数据与链接遵循原出处版权。若公开部署，建议在页脚保留“仅用于课程学习，不构成投资建议”的声明。
