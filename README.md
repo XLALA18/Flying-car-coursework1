@@ -4,9 +4,9 @@
 
 以汇天（ARIDGE）「陆地航母」X3-F 为研究对象，完成技术可行性、应用场景与市场可行性的网页调研。入口文件为根目录的 `index.html`，可直接部署到 GitHub Pages。
 
-- **作者**：谢钧羽 / 15230104
+- **作者**：XLALA18 / 15230104
 - **仓库**：https://github.com/XLALA18/Flying-car-coursework1
-- **页面**：https://XLALA18.github.io/Flying-car-coursework1/（需先在仓库 Settings → Pages 启用）
+- **页面**：https://XLALA18.github.io/Flying-car-coursework1/（需先在仓库  Settings → Pages 启用）
 
 > 核心判断：它不是空中出租车，而是一台可以带到风景里的私人飞行器。  
 > 数据截止：2026-11-25。提交前请复核 TC / 交付状态。
@@ -156,15 +156,6 @@ https://XLALA18.github.io/Flying-car-coursework1/
 ## 8. AI 使用与学术诚信
 
 本页使用 AI 辅助完成公开资料检索、结构化整理、SVG 概念图绘制、前端编码与文案润色。关键数字均回溯至文中参考文献；推断、估算与情景均单独标注。
-
-提交前请作者：
-
-1. 至少通读一遍全文，能解释每个核心判断；
-2. 抽查 3–5 条关键来源；
-3. 替换姓名/学号，确认仓库 Public；
-4. 按课程要求提交网页链接，而不是只交截图。
-
-> 课程作业允许使用 AI 工具，但“会用”不等于“代做”。把证据链和限制条件讲清楚，比堆形容词更加分。
 
 ---
 
